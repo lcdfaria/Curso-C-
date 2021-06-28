@@ -5,6 +5,7 @@ using System.Globalization;
 namespace ExercicioListas {
     class Program {
         static void Main(string[] args) {
+            
             Console.Write("How many employees will be registered? ");
             int n = int.Parse(Console.ReadLine());
 
@@ -34,7 +35,6 @@ namespace ExercicioListas {
             else {
                 Console.WriteLine("This id does not exist!");
             }
-
             Console.WriteLine();
             Console.WriteLine("Updated list of employees:");
             foreach (Employee obj in list) {
