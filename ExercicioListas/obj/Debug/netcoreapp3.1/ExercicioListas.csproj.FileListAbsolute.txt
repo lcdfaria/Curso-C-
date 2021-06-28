@@ -1,0 +1,13 @@
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csproj.AssemblyReference.cache
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfoInputs.cache
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.AssemblyInfo.cs
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.csproj.CoreCompileInputs.cache
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.exe
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.deps.json
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.json
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.runtimeconfig.dev.json
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.dll
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp3.1\ExercicioListas.pdb
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.dll
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.pdb
+D:\Curso CSharp\Programação Orientada a objetos\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp3.1\ExercicioListas.genruntimeconfig.cache
